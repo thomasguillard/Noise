@@ -87,7 +87,7 @@ flatList = []
 
 frame = 0
 
-frequency = floor(50)
+frequency = floor(20)
 
 def process():
     for px in xrange(screen.width):
